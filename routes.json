@@ -1,0 +1,4 @@
+{
+    "/categories/:category": "/categories?category=:category",
+    "/ingredients/:strIngredient1":"/ingredients?strIngredient1=:strIngredient1"
+}
